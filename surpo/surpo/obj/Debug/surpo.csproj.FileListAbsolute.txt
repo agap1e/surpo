@@ -1,0 +1,7 @@
+D:\test project\surpo\surpo\bin\Debug\surpo.exe.config
+D:\test project\surpo\surpo\bin\Debug\surpo.exe
+D:\test project\surpo\surpo\bin\Debug\surpo.pdb
+D:\test project\surpo\surpo\obj\Debug\surpo.csproj.AssemblyReference.cache
+D:\test project\surpo\surpo\obj\Debug\surpo.csproj.CoreCompileInputs.cache
+D:\test project\surpo\surpo\obj\Debug\surpo.exe
+D:\test project\surpo\surpo\obj\Debug\surpo.pdb
