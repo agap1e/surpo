@@ -13,11 +13,10 @@ namespace surpo
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hi");
-            Console.WriteLine("i'm vers2");
-            Console.WriteLine("i'm vers1");
+            Console.WriteLine("i'm vers3");
             int a = 1;
             string b = "fnie";
-            //Console.WriteLine(a * (b / 0));
+            Console.WriteLine(b);
         }
     }
 }
