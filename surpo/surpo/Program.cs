@@ -12,7 +12,7 @@ namespace surpo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            Console.WriteLine("Hi");
+            Console.WriteLine("Hi<3");
             Console.WriteLine("i'm vers3");
             int a = 1;
             string b = "fnie";
